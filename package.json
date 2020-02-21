@@ -1,0 +1,27 @@
+{
+  "name": "teamproject",
+  "version": "1.0.0",
+  "description": "## team project Please read this instruction to run this project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubylowry/teamProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubylowry/teamProject/issues"
+  },
+  "homepage": "https://github.com/rubylowry/teamProject#readme",
+  "devDependencies": {
+    "@popperjs/core": "^2.0.6",
+    "grunt": "^1.0.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
